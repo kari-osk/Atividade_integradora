@@ -1,0 +1,67 @@
+Atividade
+Montagem de diferentes computadores com base nas necessidades específicas de uso e compatibilidade entre seus diferentes componentes.
+
+>> Baixo custo - intel 
+Processador: Core i3 7100;
+Placa mãe: H110; 
+Memória principal: DDR3 4GB;
+Memória secundária: HD 500GB.
+
+>> Baixo custo - AMD
+Processador: Ryzen 3 2200g;
+Placa mãe: Gigabyte A320m;
+Memória principal: DDR4 4GB;
+Memória secundária: HD 500GB.
+
+>> Baixo custo - critério do aluno
+Processador: intel celeron G5920;
+Placa mãe: MSI B560M;
+Memória principal: DDR4 4GB;
+Memória secundária: HD 500GB.
+
+>>Médio custo - Intel
+Processador: Core i5 10400;
+Placa mãe: ASRock H5 10M HDV;
+Memória principal: DDR4 8GB;
+Memória secundária: SSD 240GB;
+GPU: Geforce GT 1030.
+
+>> Médio custo AMD
+Processador: Ryzen 5 1600;
+Placa mãe: Biostar A320M;
+Memória principal: DDR4 8GB;
+Memória secundária: SSD 240GB;
+GPU: Geforce RTX 1650.
+
+>> Médio custo- critério do aluno
+Processador: Core i5 9600;
+Placa mãe: ASRock H310;
+Memória principal: DDR4 8GB;
+Memória secundária: SSD 240GB;
+GPU: Geforce GT 1030.
+
+>> Alto custo - Intel
+Processador: Core i7 10700
+Placa mãe: Asus Z490;
+Memória principal: DDR4 Kingston 64GB;
+Memória secundária: SSD 1TB;
+GPU: Nvidia Geforce GTX 3060.
+
+>> Alto custo - AMD 
+Processor: AMD Ryzen 7 3800
+Placa mãe: Biostar A320MH;
+Memória principal: DDR4 64GB;
+Memória secundária: SSD 1TB;
+GPU: Nvidia Geforce RTX 3060.
+
+>> Alto custo - critério do aluno
+Processador: Core i9 10850;
+Placa mãe: Gigabyte Aorus Z590;
+Memória principal: DDR4 Corsair 64GB;
+Memória secundária: SSD 1TB;
+GPU: EVGA Geforce RTX 3090.
+
+
+
+
+
